@@ -1,0 +1,40 @@
+16:49:04,39-2018-07-05
+
+--CONTROLLER INFORMATION--
+
+Name: Intel(R) Desktop/Workstation/Server Express Chipset SATA RAID Controller, Type: AHCI, Supported RAID: 0/1/5/10, Max Disks/Array: 7, HW Information: , Vendor ID: 0x8086, Device ID: 0x2822, HW Revision: 0
+Dynamic Storage Accelerator: Disabled
+
+--ARRAY INFORMATION--
+
+Name: SATA_Array_0000, Size: 3726 GB, Free: 0 GB, Num Disks: 2, Num Vols: 1, Write Cache: On
+
+--VOLUME INFORMATION--
+
+Name: Volume1, Raid Level: 1, Size: 1863 GB, StripeSize: 64 KB, Num Disks: 2, State: Normal, System: True, Initialized: True, Cache Policy: Off
+
+--ARRAY INFORMATION--
+
+Name: SATA_Array_0001, Size: 18628 GB, Free: 0 GB, Num Disks: 2, Num Vols: 1, Write Cache: On
+
+--VOLUME INFORMATION--
+
+Name: Video-Master, Raid Level: 1, Size: 9314 GB, StripeSize: 64 KB, Num Disks: 2, State: Normal, System: False, Initialized: False, Cache Policy: Off
+
+--ARRAY INFORMATION--
+
+Name: SATA_Array_0001, Size: 18628 GB, Free: 0 GB, Num Disks: 2, Num Vols: 1, Write Cache: On
+
+--VOLUME INFORMATION--
+
+Name: Video-Master, Raid Level: 1, Size: 9314 GB, StripeSize: 64 KB, Num Disks: 2, State: Normal, System: blah
+
+--END DEVICE INFORMATION--
+
+ID: 0-0-0-0, Type: Disk, Disk Type: SATA Disk, State: Normal, Size: 1863 GB, Free Size: 0 GB, System Disk: False, Usage: Array member, Serial Number: W1H3K600, Model: ST2000VN000-1H3164
+
+ID: 0-1-0-0, Type: Disk, Disk Type: SATA Disk, State: Normal, Size: 1863 GB, Free Size: 0 GB, System Disk: False, Usage: Array member, Serial Number: W1H3K5ZV, Model: ST2000VN000-1H3164
+
+ID: 0-2-0-0, Type: Disk, Disk Type: SATA Disk, State: Normal, Size: 9314 GB, Free Size: 0 GB, System Disk: False, Usage: Array member, Serial Number: 7JKAY08C            , Model: WDC WD101KRYZ-01JPDB1
+
+ID: 0-3-0-0, Type: Disk, Disk Type: SATA Disk, State: Normal, Size: 9314 GB, Free Size: 0 GB, System Disk: False, Usage: Array member, Serial Number: 7JK464NC            , Model: WDC WD101KRYZ-01JPDB1

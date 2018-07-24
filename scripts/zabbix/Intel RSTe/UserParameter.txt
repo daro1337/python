@@ -1,0 +1,2 @@
+#Example:
+UserParameter=raid_irst[*],C:\zabbix\check\intelraid.py C:\zabbix\check\rstcli64.exe C:\zabbix\check\intelraid.txt
